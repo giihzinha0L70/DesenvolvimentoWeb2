@@ -24,11 +24,11 @@
 				<form method="" action="">
 					<p>
 						Login: <br>
-						<input type="text" required>
+						<input type="text" name="login" required>
 					</p>
 					<p>
 						Senha: <br>
-						<input type="password" required>
+						<input type="password" name="senha" required>
 					</p>
 					<p>
 						<input type="submit" value="Entrar">
